@@ -12,5 +12,5 @@ By default tests.sh will download official team-rosalind repo, make test.csv fro
 # Usage
 The main functionality of the task is hangled by csv-producer script. This script is goinng to clone team-rosalind default repo and make a csv file out of output of individual scripts. We are using power of `parallel` for faster script executing.
 
-#Contributions
+# Contributions
 Please navigate to team-rosalind official [repo](https://github.com/Team-Rosalind/team-rosalind-project) to see the contributors and their contribution to the project
